@@ -101,3 +101,15 @@ This project emphasizes proper experimental methodology in stochastic metaheuris
 - Reproducibility of results  
 
 The implementation aims to follow good research practices for computational experimentation in metaheuristic optimization.
+
+---
+
+## 📎 Additional Materials
+
+The repository includes complementary academic material:
+
+- 📄 **Technical Report** containing detailed experimental results and statistical analysis  
+- 📓 **Google Colab Notebook** for easy execution and reproducibility  
+- 📊 **Brief Presentation** summarizing methodology, comparison, and key findings  
+
+These materials provide a complete overview of the experimental framework, results interpretation, and conclusions derived from the comparative study.
