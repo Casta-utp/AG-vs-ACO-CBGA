@@ -58,14 +58,16 @@ The following statistical indicators are computed:
 
 The project follows a clean **Object-Oriented Programming (OOP)** modular structure:
 
+```bash
 tsp_project/
 │
-├── core/ # Problem abstraction and experiment runner
-├── algorithms/ # GA, ACO, CBGA, Random Search
-├── tuning/ # Grid Search module
-├── visualization/ # Convergence and statistical plots
-├── config.py # Instances and known optima
-└── main.py # Interactive execution menu
+├── core/              # Problem abstraction and experiment runner
+├── algorithms/        # GA, ACO, CBGA, Random Search
+├── tuning/            # Grid Search module
+├── visualization/     # Convergence and statistical plots
+├── config.py          # Instances and known optima
+└── main.py            # Interactive execution menu
+```
 
 
 ### Architectural Principles
